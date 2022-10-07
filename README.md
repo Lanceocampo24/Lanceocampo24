@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lancerubi
+- 👋 Hi, I’m @lanceocampo
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning other programming langguage
 - 💞️ I’m looking to collaborate on my upcoming projects
